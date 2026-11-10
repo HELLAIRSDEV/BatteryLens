@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+*.swp
+
+# Артефакты сборки
+build/
+dist/
+BatteryLens.app/
+*.dmg
+*.zip
+*.iconset
+
+# Xcode
+xcuserdata/
+DerivedData/
